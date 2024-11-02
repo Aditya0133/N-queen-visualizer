@@ -1,2 +1,9 @@
-# N-queen-visualizer
-An N-Queens visualizer shows how to place N queens on an N×N chessboard without any two queens threatening each other. It highlights safe and unsafe cells, demonstrating the step-by-step backtracking process to find solutions. Users can adjust board size and view multiple possible arrangements interactively.
+# N-Queen Visualiser
+
+- The N-Queens puzzle is the problem of placing N chess queens on an N×N chessboard so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal.
+
+- This algorithm is designed using recursion.
+
+![N-Queen-visualisation](visualisation.gif)
+
+
